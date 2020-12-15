@@ -1,4 +1,5 @@
 # hq-shop-teste
+Based in my other project <https://github.com/LeoSouza221/hq-shop>, but now with unit tests
 
 ## Project setup
 ```
